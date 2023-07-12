@@ -1,0 +1,6 @@
+**INFORMATION** for using this Lib Repository
+
+1.The lib file for this project, Flutter_Recipe_List, has been directly pasted here.
+2.To use this project, simply replace your pubspec.yaml file with the updated pubspec.yaml file provided.
+3.Website :- https://rapidapi.com/apidojo/api/yummly2 free api service can be used in your app. To do this, simply use your rapidApi key and host, which you can obtain from this free api. But don't use my rapidKey and hosting from the given code.
+4.I hope you will enjoy this project.
